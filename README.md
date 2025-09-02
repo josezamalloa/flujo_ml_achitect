@@ -219,4 +219,4 @@ def lambda_handler(event, context):
 
 En un navegador probar la URL:
 
-https://{api-id}.execute-api.{region}.amazonaws.com/prod/doc/s3%3A%2F%2Fml-docs-demo-jdzn%2FAWS-Certified-SysOps-Administrator-Associate_Exam-Guide.pdf
+https://<api-id>.execute-api.<region>.amazonaws.com/prod/doc/s3%3A%2F%2F<nombre_bucket>%2F<nombre_archivo>.pdf
